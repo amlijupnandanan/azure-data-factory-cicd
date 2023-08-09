@@ -1,0 +1,21 @@
+{
+	"name": "adf-data-nonprod-001",
+	"properties": {
+		"globalParameters": {
+			"Param1": {
+				"type": "String",
+				"value": "test1"
+			},
+			"Param2": {
+				"type": "String",
+				"value": "Test2"
+			}
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a8095352-666d-4902-8ff9-7610594d053e",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
